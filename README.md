@@ -23,5 +23,7 @@ Raspberry Piの時計のタイマーは符号付き32bit intで実装されて�
 そのため，2038年1月19日12時14分7秒をまたぐ水やりを行うと，プログラムの実装によっては水が出続ける可能性があります．
 ご利用時はご注意ください．
 
+参考文献
 https://ja.wikipedia.org/wiki/2038%E5%B9%B4%E5%95%8F%E9%A1%8C
+
 https://www.youtube.com/watch?v=WLyIPslm_rw
