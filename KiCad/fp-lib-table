@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name murata_dcdc)(type KiCad)(uri ${KIPRJMOD}/murata_dcdc.pretty)(options "")(descr ""))
+  (lib (name universal)(type KiCad)(uri ${KIPRJMOD}/universal.pretty)(options "")(descr ""))
+)

@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name murata_dcdc)(type Legacy)(uri C:/Users/kousuke/Dropbox/kawatic/circuit/pi-ups/murata_dcdc.lib)(options "")(descr ""))
-  (lib (name pi-ups-rescue)(type Legacy)(uri ${KIPRJMOD}/pi-ups-rescue.lib)(options "")(descr ""))
-)
